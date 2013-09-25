@@ -1,0 +1,253 @@
+body {
+
+	font-family: 'Open Sans', sans-serif;
+
+	font-weight:300;
+
+	background:#FFF url('/wp-content/themes/sean/images/paper.gif') repeat top!important;
+
+}
+
+
+
+h1, h2, h3, h4 {
+
+	font-family: 'Oswald', sans-serif;
+
+	font-weight:400;
+
+	text-transform:uppercase;
+
+	color:#AED9AA;
+
+}
+
+
+
+h1 {
+
+	line-height:1.4em!important;
+
+}
+
+
+
+h2 {
+
+	font-size:1.1em;
+
+}
+
+
+
+h3 {
+
+	font-size:.9em;
+
+}
+
+
+
+p {
+
+
+
+}
+
+
+
+#header h1 a, #header h1 a:hover {
+
+	color:#384444!important;
+
+}
+
+
+
+.slogan {
+
+	font-size:.9em;
+
+	font-style:italic;
+
+}
+
+
+
+#header {
+
+	text-align:center;
+
+	background:#FFF url('/wp-content/themes/sean/images/bkg-dots.gif') repeat-y left;
+
+}
+
+
+
+#sidebar {
+
+	text-align:center;	
+
+	padding-top:0;
+
+}
+
+
+
+#sidebar p  {
+
+	margin-bottom:30px;
+
+	font-size:.9em;
+
+	line-height:2em!important;
+
+}
+
+
+
+#sidebar a {
+
+	color:#AED9AA;
+
+	font-weight:400;
+
+}
+
+
+
+#sidebar a:hover {
+
+	opacity:.7;
+
+}
+
+
+
+#header h1 {
+
+	margin-bottom:8px;
+
+	font-size:1.6em;
+
+}
+
+
+
+#header a:hover, #header a img:hover {
+
+	opacity:.8;
+
+}
+
+
+
+
+
+.projectNav a:hover {
+
+	opacity:.7;
+
+}
+
+
+
+.projectNav div.previous {
+
+	display:none;
+
+}
+
+
+
+#content .project.small .title {
+
+	font-family: 'Oswald', sans-serif;
+
+	font-weight:400;
+
+	text-transform:uppercase;
+
+	font-size:1.3em;
+
+	line-height:1.3em;
+
+}
+
+
+
+.page-id-53 #pageHead {
+
+	display:none;
+
+}
+
+
+
+#logo {
+
+	width:100px;
+
+	height:100px;
+
+	margin:0 auto 20px auto;
+
+}
+
+
+
+.wpcol-one-half img {
+
+	max-height:60px;
+
+	width:auto
+
+}
+
+
+
+#footer {
+
+	text-align:center;
+
+	background:none;
+
+}
+
+
+
+#footer .inside {
+
+	background:#FFF;
+
+	padding-bottom:10px;
+
+	margin: 0 60px 0;
+
+	padding-top:10px;
+
+}
+
+
+
+#footer p {
+
+	font-size:.6em;
+
+}
+
+
+
+@media only screen and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 600px)  {
+
+	.wpcol-one-third, .wpcol-two-third {
+
+		width:100%!important;
+
+		display:block;
+
+		float:none;
+
+	}
+
+}
